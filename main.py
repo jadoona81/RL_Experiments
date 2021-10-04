@@ -575,8 +575,7 @@ def main(args):
 
 
 
-'''if __name__ == "__main__":
+if __name__ == "__main__":
     #arguments       minEpisodes      approach    areaValsIndex      numTargets      stepsLimitPerEpisode   train/test
 	main(sys.argv)
 
-'''
